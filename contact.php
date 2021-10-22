@@ -43,7 +43,7 @@
             
             <div class="maxwidth">
         
-             -->  <ul class="menu">
+              <ul class="menu">
                   <li><a href="index.html">Accueil </a>
                   <li><a href="login.php">Achats</a>
                   <li class="active"><a href="contact.php">Contact</a></li>
