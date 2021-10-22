@@ -9,8 +9,8 @@
    
     $username=mysqli_real_escape_string($connect,$_POST["username"]); 
      
-    $query = "INSERT INTO users (username, password) VALUES ('$username')";
-    $sql="SELECT * FROM users  WHERE Username='$username'   ";
+    $query = "INSERT INTO contact (message) VALUES ('$message')";
+    $sql="SELECT * FROM contact  WHERE message='$message'   ";
     $result = mysqli_query($connect, $sql);
     $count = mysqli_num_rows($result);
 
@@ -68,7 +68,7 @@
                     if($valideCode ) 
                                           
                       {
-                        if(isset($_POST["username"]))
+                        if(isset($_POST["message"]))
                             echo "<h1> Merci votre message a bien été envoyé </strong> </h1>";
                        
                     }
