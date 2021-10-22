@@ -22,6 +22,23 @@ Liste approche agile :
             2.c) Sécurisation des mots de passe(hachage, validation expression régulière)
      3. Page contact (html.css) 
                Créer une base de données pour les achats(phpmyadmin) 
+               
+               Environnement de développement     
+ Architecture de logiciels: WAMP (Windows, MySQL, PHP)
+1-EDI  Visual Studio Code :Rapidité ,outils de débogage ,gratuité (code source 
+public) et fréquences rapides des mises à jour.
+     2-Système d’exploitation – Windows 10
+	J’ai choisi le système d’exploitation Windows 10, car c’est le système d’exploitation présentement installé sur mon ordinateur et par habitude, et c’est celui avec lequel j’ai le plus d’expérience en programmation de site Web
+          3.Gestion de version - Github : ce service est compatible avec une multitude de programmes conçus pour faciliter le travail collaboratif, par exemple Docker, les outils CI/CD ou les applications de gestion de projet, et je le préfère mieux que Gitlab.
+
+       
+
+
+
+       Serveur d’hébergement
+1- Service d’hébergement www.000webhost.com
+Mon nom de domaine est enregistré à : my.freenom
+
 
 
 
